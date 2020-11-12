@@ -1,0 +1,7 @@
+/.metadata/
+/UK-GeoJSON-master/
+*.DS_Store
+*.classpath
+*.log
+*.prefs
+*.class
