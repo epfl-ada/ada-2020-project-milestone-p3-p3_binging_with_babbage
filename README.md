@@ -26,3 +26,9 @@ A list of internal milestones up until project milestone P4. Add here a sketch o
 
 Questions for TAs (optional)
 
+
+The easy GeoPandas Enviroment Setup 
+<center><img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The pile gets soaked with data and starts to get mushy over time, so it's technically recurrent. <i>
+</center>
+  
+<img src="//imgs.xkcd.com/comics/python_environment.png" title="The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages." alt="Python Environment" srcset="//imgs.xkcd.com/comics/python_environment_2x.png 2x" style="image-orientation:none">
