@@ -18,10 +18,10 @@ This would allow us to understand a small part of the political landscape, and r
 
 A list of research questions you would like to address during the project.
 
-Who is a Tesco customer, can we find difference in areas were Tesco operates dominantly? 
-Is there a significant difference in nutrients, both individual and in their distribition between different cultural groups? 
-What impact do different socie-economic circumstances have on calories, nutrients and nutrient diversity? 
-Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrion? 
+- Who is a Tesco customer, can we find difference in areas were Tesco operates dominantly? 
+- Is there a significant difference in nutrients, both individual and in their distribition between different cultural groups? 
+- What impact do different socie-economic circumstances have on calories, nutrients and nutrient diversity? 
+- Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrion? 
 
 
 
