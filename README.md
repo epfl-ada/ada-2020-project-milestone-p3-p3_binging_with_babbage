@@ -76,8 +76,8 @@ Do our semi-serious or humorous texts annoy you or do they lighten up the monoto
 
 Rejected Working Titles: 
 
-Between Grease and flat-nose Geezer: A look at the effect of socie-economic realities on nutrion in Greater London
-Luv ma Pub, Luv ma Pie, Luv ma Tesco: Nutrion and cultural realities in Greater London
-The Pots of London: A in-depth look beyond Cumberland Sausage and Tikka Marsalla
-TEXIT NOW: Why are their no Tescos in Southern London?  
-Jazzing it up in London with Prof. Bob
+- Between Grease and flat-nose Geezer: A look at the effect of socie-economic realities on nutrion in Greater London
+- Luv ma Pub, Luv ma Pie, Luv ma Tesco: Nutrion and cultural realities in Greater London
+- The Pots of London: A in-depth look beyond Cumberland Sausage and Tikka Marsalla
+- TEXIT NOW: Why are there no Tescos in Southern London?  
+- Jazzing it up in London with Prof. Bob
