@@ -60,7 +60,8 @@ The amuse-geule was pre-prepared by Sous-Chef Luca and Michael. We setup the env
 The easy GeoPandas Enviroment Setup: 
 
 <p align="center">
-<img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
+![alt text](https://imgs.xkcd.com/comics/python_environment.png "The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages")
+
 </p>
 
 
@@ -79,5 +80,5 @@ Do our semi-serious or humorous texts annoy you or do they lighten up the monoto
 - <b>Between Grease and flat-nose Geezer:</b><i> A look at the effect of socie-economic realities on nutrion in Greater London  </i>
 - <b>Luv a Pie, Luv ma Pub, Luv ma Tesco:</b><i> Nutrion and cultural realities in Greater London  </i>
 - <b>The Pots of London:</b><i> A in-depth look beyond Cumberland Sausage and Tikka Marsalla  </i>
-- <b>TEXIT NOW:</b><i> Why are there no Tescos in Southern London?</i>
+- <b>TEXIT NOW:</b><i> Why are there no Tescos in Southern London?[$^1$]</i>
 - Jazzing it up in London <i>with Prof. Bob</i> 
