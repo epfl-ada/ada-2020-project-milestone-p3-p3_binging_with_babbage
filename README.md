@@ -60,8 +60,7 @@ The amuse-geule was pre-prepared by Sous-Chef Luca and Michael. We setup the env
 The easy GeoPandas Enviroment Setup: 
 
 <p align="center">
-![alt text](https://imgs.xkcd.com/comics/python_environment.png "The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages")
-
+<img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
 </p>
 
 
