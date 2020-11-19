@@ -1,4 +1,4 @@
-# Working Title: Show me your plate and I tell you who you are
+# Title: Show me your plate and I tell you who you are
 
 ### Abstract 
 
