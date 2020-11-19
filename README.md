@@ -1,6 +1,6 @@
 # Working Title: Show me your plate and I tell you who you are
 
-Abstract 
+### Abstract 
 
 The Paper introduces a novel dataset and with it explores the interrelations of nutrion and health. This utilizes the easy association between the Tesco data and aviable census data, which we want to extend on to explore to see if food is a dividing factor or a great unifier in a society.
 We propose to combine the data set with aviable census data to explore relationships between socie-economic factors - such as wealth, education, ethnicity and cultural background -, and nutrion.
@@ -14,7 +14,7 @@ Since visualizing the full graph may be challenging due to its size, we may have
 This would allow us to understand a small part of the political landscape, and reflect on how it reflects or affects the real landscape, and how that can be improved (for example, by encouraging more cross-party communication).
 
 
-Research Questions
+### Research Questions
 
 A list of research questions you would like to address during the project.
 
@@ -25,20 +25,20 @@ Can we train a predictive model that is able to predict socio-economic facts abo
 
 
 
-Proposed dataset
+### Proposed dataset
 
 List the dataset(s) you want to use, and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you've read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible given the datasets at hand.
 
 
 
 
-Methods
+### Methods
 
 The 
 
 
 
-Proposed timeline
+### Proposed Timeline
 
 - The amuse-gueule (Setting up the Enviroments and making sure our tools are up-to-date and ready for the tasks)
 - The bread and butter (Data Loading, Cleaning and Pre-Processing)
@@ -50,7 +50,7 @@ Proposed timeline
 
 
 
-Organization within the team
+### Organization within the team
 
 The amuse-geule was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. 
 
@@ -70,11 +70,11 @@ The easy GeoPandas Enviroment Setup:
 
 
 
-Questions for TAs (optional)
+### Questions for TAs
 
 Do our semi-serious or humorous texts annoy you or do they lighten up the monotony of looking at 5 times the same project? Should we continue in the more casual style or become more laconic and embrass our inner german-ness? We can stop ... Promise!
 
-Rejected Working Titles: 
+#### Rejected Working Titles: 
 
 - <b>Between Grease and flat-nose Geezer:</b><i> A look at the effect of socie-economic realities on nutrion in Greater London  </i>
 - <b>Luv a Pie, Luv ma Pub, Luv ma Tesco:</b><i> Nutrion and cultural realities in Greater London  </i>
