@@ -50,21 +50,19 @@ The
 
 ### Proposed Timeline
 
-- The amuse-gueule (Setting up the Enviroments and making sure our tools are up-to-date and ready for the tasks)
-- The bread and butter (Data Loading, Cleaning and Pre-Processing)
-- The entrée ()
-- The main dish ()
-- The side dish ()
-- The dessert (Making it a coherent data story)
-- The cherry on top (Exploring more advanced visualization of the Data, to allow interactive exploration of the results)
+- The amuse-gueule: *Setting up the Enviroments and making sure our tools are up-to-date and ready for the tasks*
+- The bread and butter: *Data Loading, Cleaning and Pre-Processing*
+- The entrée: * *
+- The main dish: * *
+- The side dish: * *
+- The dessert: *Making it a coherent data story*
+- The cherry on top: *Exploring more advanced visualization of the Data, to allow interactive exploration of the results*
 
 ---
 
 ### Organization within the team
 
 The amuse-geule was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. 
-
-
 
 
 The easy GeoPandas Enviroment Setup: 
