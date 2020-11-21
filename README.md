@@ -25,12 +25,22 @@ A list of research questions you would like to address during the project.
 - Is there a significant difference in nutrients, both individual and in their distribition between different cultural groups? 
 - What impact do different socie-economic circumstances have on calories, nutrients and nutrient diversity? 
 - Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrion? 
-
+- How does purchase behavior change over the year, is there a change in consumption behavior observable and linkable to different strata 
 ---
 
 ### Proposed dataset
 
 List the dataset(s) you want to use, and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you've read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible given the datasets at hand.
+
+- The [London Data Store](https://data.london.gov.uk/) acts as a Candy Shop, which provides a near infinite supply of possibly interesting data sets, which we could use for our analysis. Some interesting datasets for [LSOA](https://data.london.gov.uk/dataset/lsoa-atlas), [MSOA](https://data.london.gov.uk/dataset/msoa-atlas), [Wards](https://data.london.gov.uk/dataset/ward-profiles-and-atlas), and [Boroughs](https://data.london.gov.uk/dataset/london-borough-profiles) feature many important core socio-economic informations about an area, such as Household income, Income Support and JobSeekers Allowance claimant rates, population density, household composition, religion, ethnicity, employment and economic activity, and median area incomes. The data is cleary annotated and after a first inspection seems to be nearly complete, well organised and accessible. The sizes of the dataset don't exceed 6 mb each thus we can easily handle them on our personal ~~lapwarmer~~ laptop. (Bob does not need to fear the bill from the EPFL Computation Cluster). 
+
+- To acquiere geodata useable for the timeframe of data collection - census boundries in the UK seem to follow new age trends and are in constant flow - we currently use following [repository](https://github.com/martinjc/UK-GeoJSON), however we are also searching alternative, possibly more [offical](https://geoportal.statistics.gov.uk/), sources. The Data set is organised based on the Identifiers for the different Census areas, and after filtering out all unnecessary information we are left with around 50 mb of data, from over a Gigabyte for the full UK data set. To make later processing even easier we aim to package it both as .geojson/.json and .pkl files.
+
+Using the former, we already tested it and indeed were able to recreate a London in its natural habitat.
+
+Interactive Plotly Plot             |  Geopandas Plot
+:-------------------------:|:-------------------------:
+<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/0dd39927-7cb6-4a22-8530-03d8d00d9d51.png' width = 800 height = 400>  |<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/38576432-655a-4774-88a9-e03c02ff0898.jfif' width = 800 height = 400>
 
 ---
 
