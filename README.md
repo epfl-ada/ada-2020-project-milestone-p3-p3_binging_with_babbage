@@ -25,15 +25,28 @@ A list of research questions you would like to address during the project.
 - Is there a significant difference in nutrients, both individual and in their distribition between different cultural groups? 
 - What impact do different socie-economic circumstances have on calories, nutrients and nutrient diversity? 
 - Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrion? 
-
+- How does purchase behavior change over the year, is there a change in consumption behavior observable and linkable to different strata 
 ---
 
 ### Proposed dataset
 
 List the dataset(s) you want to use, and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you've read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible given the datasets at hand.
 
----
+- The [London Data Store](https://data.london.gov.uk/) acts as a Candy Shop, which provides a near infinite supply of possibly interesting data sets, which we could use for our analysis. Some interesting datasets for [LSOA](https://data.london.gov.uk/dataset/lsoa-atlas), [MSOA](https://data.london.gov.uk/dataset/msoa-atlas), [Wards](https://data.london.gov.uk/dataset/ward-profiles-and-atlas), and [Boroughs](https://data.london.gov.uk/dataset/london-borough-profiles) feature many important core socio-economic informations about an area, such as Household income, Income Support and JobSeekers Allowance claimant rates, population density, household composition, religion, ethnicity, employment and economic activity, and median area incomes. The data is cleary annotated and after a first inspection seems to be nearly complete, well organised and accessible, although in some instances rather ingranual (The ethic grouping let us suspect the census planners of having a long family history of being let loose with just a ruler on maps). Some issues such as inflation might need to be addressed and some further background research needs to be done, for example how we could discretize certain data based on area population following UK standards, such as for example <i> lower/middle/upper </i> class or the more refined distingiouns made in the [Great British Class Survey](https://en.wikipedia.org/wiki/Great_British_Class_Survey). The sizes of the dataset don't exceed 6 mb each thus we can easily handle them on our personal ~~lapwarmer~~ laptop. (Bob does not need to fear the bill from the EPFL Computation Cluster). We addionally will crawl further through the aisle of the data store to find additional interesting and even more specific data sets, when we might want to dive deeper into a specific sub-area. 
 
+- To acquiere geodata useable for the timeframe of data collection - census boundries in the UK seem to follow new age trends and are in constant flow - we currently use following [repository](https://github.com/martinjc/UK-GeoJSON), however we are also searching alternative, possibly more [offical](https://geoportal.statistics.gov.uk/), sources. The Data set is organised based on the Identifiers for the different Census areas, and after filtering out all unnecessary information we are left with around 50 mb of data, from over a Gigabyte for the full UK data set. To make later processing even easier we aim to package it both as .geojson/.json and .pkl files.
+
+Using the former, we already tested it and indeed were able to recreate a London in its natural habitat.
+
+Interactive Plotly Plot             |  Geopandas Plot
+:-------------------------:|:-------------------------:
+<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/0dd39927-7cb6-4a22-8530-03d8d00d9d51.png' width = 800 height = 400>  |<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/38576432-655a-4774-88a9-e03c02ff0898.jfif' width = 800 height = 400>
+
+
+
+<i> The plot allows you to appreciate the abstract beauty of Slough and the home counties as it should be, from hundreds of miles away and free from any kind of lower stimuli, such as smell or sight </i>
+
+---
 
 ### Methods
 
@@ -66,10 +79,6 @@ The easy GeoPandas Enviroment Setup:
 <img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
 </p>
 
-
-
-
-
 ---
 
 
@@ -84,5 +93,10 @@ Do our semi-serious or humorous texts annoy you or do they lighten up the monoto
 - <b>Between Grease and flat-nose Geezer:</b><i> A look at the effect of socie-economic realities on nutrion in Greater London  </i>
 - <b>Luv a Pie, Luv ma Pub, Luv ma Tesco:</b><i> Nutrion and cultural realities in Greater London  </i>
 - <b>The Pots of London:</b><i> A in-depth look beyond Cumberland Sausage and Tikka Marsalla  </i>
-- <b>TEXIT NOW:</b><i> Why are there no Tescos in Southern London?[$^1$]</i>
-- Jazzing it up in London <i>with Prof. Bob</i> 
+- <b>TEXIT NOW:</b><i> Why are there no Tescos in Southern London?</i>
+- Jazzing it up in London <i>with Professor Bob</i> 
+
+
+
+
+<i> We apologize to any British person feeling personally attacked by our banter and low effort persiflage of your country, sue is in a European Court as long as you still can.  - <b> Tick Tock </b> -. Tally Hoe! </i>
