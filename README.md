@@ -52,9 +52,9 @@ The
 
 - The amuse-gueule: *Setting up the Enviroments and making sure our tools are up-to-date and ready for the tasks*
 - The bread and butter: *Data Loading, Cleaning and Pre-Processing*
-- The entrée: * *
-- The main dish: * *
-- The side dish: * *
+- The entrée: 
+- The main dish: 
+- The side dish: 
 - The dessert: *Making it a coherent data story*
 - The cherry on top: *Exploring more advanced visualization of the Data, to allow interactive exploration of the results*
 
@@ -84,7 +84,7 @@ Do our semi-serious or humorous texts annoy you or do they lighten up the monoto
 
 - <b>Between Grease and flat-nose Geezer:</b><i> A look at the effect of socie-economic realities on nutrion in Greater London  </i>
 - <b>Luv a Pie, Luv ma Pub, Luv ma Tesco:</b><i> Nutrion and cultural realities in Greater London  </i>
-- <b>The Pots of London:</b><i> A in-depth look beyond Cumberland Sausage and Tikka Marsalla  </i>
+- <b>The Pots of London:</b><i> A in-depth look beyond Cumberland Sausage and Tikka Masala  </i>
 - <b>TEXIT NOW:</b><i> Why are there no Tescos in Southern London?</i>
 - Jazzing it up in London <i>with Professor Bob</i> 
 
