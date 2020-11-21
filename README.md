@@ -9,12 +9,6 @@ We propose to combine the data set with aviable census data to explore relations
 The association to the Greater London area allows us to explore the inter-relation between nutrion and other census data in a socie-economically diverse metropolitian area.  
 This association also allows us to explore geodata based visaulization and to make a possibly interactive Map/s of London, that can be explored. 
 
-While the paper explores the general Twitter graph properties, we propose to study if we can detect political division in the graph.
-To do so, we propose to build an additional dataset with US politicians' Twitter handles and political alignments, and assign their corresponding nodes in the Twitter graph an appropriate label (e.g. "democrat" or "republican").
-We will then run a community detection algorithm on the Twitter graph of followers, and see whether we can detect political clusters and their shapes, and to what extent they may be connected.
-Since visualizing the full graph may be challenging due to its size, we may have to find alternative methods to study the result.
-This would allow us to understand a small part of the political landscape, and reflect on how it reflects or affects the real landscape, and how that can be improved (for example, by encouraging more cross-party communication).
-
 --- 
 
 ### Research Questions
