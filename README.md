@@ -91,4 +91,4 @@ Do our semi-serious or humorous texts annoy you or do they lighten up the monoto
 
 
 
-<i> We apologize to any British person feeling personally attacked by our banter and low effort persiflage of your country, sue is in a European Court as long as you still can.  - <b> Tick Tock </b> -. Tally Hoe! </i>
+<i> We apologize to any British person feeling personally attacked by our banter and low effort persiflage of your country, sue us in a European Court as long as you still can.  - <b> Tick Tock </b> -. Tally Hoe! </i>
