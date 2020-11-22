@@ -7,7 +7,7 @@
 The Paper introduces a novel dataset and with it explores the interrelations of nutrion and health. This utilizes the easy association between the Tesco data and aviable census data, which we want to extend on to explore to see if food is a dividing factor or a great unifier in a society.
 We propose to combine the data set with aviable census data to explore relationships between socie-economic factors - such as wealth, education, ethnicity and cultural background -, and nutrion.
 The association to the Greater London area allows us to explore the inter-relation between nutrion and other census data in a socie-economically diverse metropolitian area.  
-This association also allows us to explore geodata based visaulization and to make a possibly interactive Map/s of London, that can be explored. 
+This association also allows us to explore geodata based visualization and to make a possibly interactive Map/s of London, that can be explored. 
 
 --- 
 
@@ -52,9 +52,9 @@ The
 
 - The amuse-gueule: *Setting up the Enviroments and making sure our tools are up-to-date and ready for the tasks*
 - The bread and butter: *Data Loading, Cleaning and Pre-Processing*
-- The entrée: 
-- The main dish: 
-- The side dish: 
+- The entrée: *Analysing the Data based on Correlation and Regression*
+- The main dish: *Training a more refined predictive model*
+- The side dish: *Finding an explainable model* 
 - The dessert: *Making it a coherent data story*
 - The cherry on top: *Exploring more advanced visualization of the Data, to allow interactive exploration of the results*
 
@@ -76,7 +76,9 @@ The easy GeoPandas Enviroment Setup:
 
 ### Questions for TAs
 
-Do our semi-serious or humorous texts annoy you or do they lighten up the monotony of looking at 5 times the same project? Should we continue in the more casual style or become more laconic and embrass our inner german-ness? We can stop ... Promise!
+- Do our semi-serious or humorous texts annoy you or do they lighten up the monotony of looking at 5 times the same project? Should we continue in the more casual style or become more laconic and embrass our inner german-ness? We can stop ... Promise!
+
+- We would like to use a little cross-pollination from the Distributed Information Systems Lecture and utilize some of the there introduced methods, nominally Associations Rule Mining, and would ask if this would be okay?  
 
 ---
 
