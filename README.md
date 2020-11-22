@@ -89,9 +89,5 @@ The easy GeoPandas Enviroment Setup:
 - <b>Luv a Pie, Luv ma Pub, Luv ma Tesco:</b><i> Nutrion and cultural realities in Greater London  </i>
 - <b>The Pots of London:</b><i> A in-depth look beyond Cumberland Sausage and Tikka Masala  </i>
 - <b>TEXIT NOW:</b><i> Why are there no Tescos in Southern London?</i>
-- Jazzing it up in London <i>with Professor Bob</i> 
-
-
-
 
 <i> We apologize to any British person feeling personally attacked by our banter and low effort persiflage of your country, sue us in a European Court as long as you still can.  - <b> Tick Tock </b> -. Tally Hoe! </i>
