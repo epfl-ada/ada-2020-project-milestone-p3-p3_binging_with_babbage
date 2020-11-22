@@ -51,7 +51,7 @@ The
 
 ### Proposed Timeline
 
-- The amuse-gueule: *Setting up the Enviroments and making sure our tools are up-to-date and ready for the tasks*
+- The amuse-bouche: *Setting up the Enviroments and making sure our tools are up-to-date and ready for the tasks*
 - The bread and butter: *Data Loading, Cleaning and Pre-Processing*
 - The entrée: *Analysing the Data based on Correlation and Regression*
 - The main dish: *Training a more refined predictive model*
