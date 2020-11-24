@@ -64,7 +64,7 @@ To start of we will use the explorative **statitical techniques** covered in the
 
 ### Organization within the team
 
-The amuse-geule was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. 
+The amuse-bouche was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. 
 
 
 <p align="center">
