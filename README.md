@@ -68,7 +68,7 @@ The amuse-geule was pre-prepared by Sous-Chef Luca and Michael. We setup the env
 
 
 <p align="center">
-<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/On_The_First_Day_Of_Chirstmas.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
+<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/On_The_First_Day_Of_Chirstmas.png'>
 </p>
 
 
