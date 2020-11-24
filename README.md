@@ -35,7 +35,7 @@ Using the former, we already tested it and indeed were able to recreate a London
 
 Interactive Plotly Plot             |  Geopandas Plot
 :-------------------------:|:-------------------------:
-<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/0dd39927-7cb6-4a22-8530-03d8d00d9d51.png' width = 800 height = 400>  |<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/38576432-655a-4774-88a9-e03c02ff0898.jfif' width = 800 height = 400>
+<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/0dd39927-7cb6-4a22-8530-03d8d00d9d51.png' width = 800 height = 300>  |<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/38576432-655a-4774-88a9-e03c02ff0898.jfif' width = 800 height = 300>
 
 
 <p align="center">
