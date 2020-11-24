@@ -69,7 +69,7 @@ To start of we will use the explorative **statitical techniques** covered in the
 ### Organization within the team
 In team organization we follow a *thematically consistent* system derived from the UK parlimanetary system, although an older [iteration](https://en.wikipedia.org/wiki/Personal_Rule). 
 
-The amuse-bouche was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. For the final report presentation a github.io page was also already setup. As a Team we addionally conducted data loading and intially checks and conducted research into futher data sources.
+The amuse-bouche was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. For the final report presentation a [github.io](https://fierceeagle.github.io/) page was also already setup. As a Team we addionally conducted data loading and intially checks and conducted research into futher data sources.
 
 For future planning we consider that mainly the model training and initial analysis will be conducted by every individual with a common goal to compare different apporach and double check results. The Side-Projects, i.e GeoViz and Explainable Models, are conducted by Luca and Michael. For the final report we want to hold a session to develop a shared data story joining and concentrating individual results.
 
