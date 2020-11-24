@@ -10,6 +10,15 @@ The association to the Greater London area allows us to explore the inter-relati
 This association also allows us to explore geodata based visualization and to make a possibly interactive Map/s of London, that can be explored. 
 
 --- 
+### Related Work
+
+A few related studies that have been conducted, althugh these include mainly survey studies, not observational results. 
+
+- [Socioeconomic inequalities in the healthiness of food choices: Exploring the contributions of food expenditures](https://www.sciencedirect.com/science/article/pii/S0091743516300676?via%3Dihub)
+- [Social class differences in food consumption: The explanatory value of permissiveness and health and cost considerations](https://tinyurl.com/yxuof5jr)
+- [Socio-economic dietary inequalities in UK adults: an updated picture of key food groups and nutrients from national surveillance data](https://tinyurl.com/y388nyyc)
+
+---
 
 ### Research Questions
 
