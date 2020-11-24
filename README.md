@@ -60,24 +60,18 @@ To start of we will use the explorative **statitical techniques** covered in the
 - The dessert: *Making it a coherent data story*
 - The cherry on top: *Exploring more advanced visualization of the Data, to allow interactive exploration of the results*
 
----
-
-### Organization within the team
-
-The amuse-bouche was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. 
-
-
 <p align="center">
 <img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/On_The_First_Day_Of_Chirstmas.png'>
 </p>
 
+---
 
+### Organization within the team
+In team organization we follow a *thematically consistent* system derived from the UK parlimanetary system, although an older [iteration](https://en.wikipedia.org/wiki/Personal_Rule). 
 
-The easy GeoPandas Enviroment Setup: 
+The amuse-bouche was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. For the final report presentation a github.io page was also already setup. As a Team we addionally conducted data loading and intially checks and conducted research into futher data sources.
 
-<p align="center">
-<img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
-</p>
+For future planning we consider that mainly the model training and initial analysis will be conducted by every individual with a common goal to compare different apporach and double check results. The Side-Projects, i.e GeoViz and Explainable Models, are conducted by Luca and Michael. For the final report we want to hold a session to develop a shared data story joining and concentrating individual results.
 
 ---
 
@@ -89,6 +83,13 @@ The easy GeoPandas Enviroment Setup:
 - We would like to use a little cross-pollination from the Distributed Information Systems Lecture and utilize some of the there introduced methods, nominally Associations Rule Mining, and would ask if this would be okay?  
 
 ---
+
+#### Warnings for weary Travelers : The *easy* GeoPandas Enviroment Setup
+
+<p align="center">
+<img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
+</p>
+
 
 #### Rejected Working Titles: 
 
