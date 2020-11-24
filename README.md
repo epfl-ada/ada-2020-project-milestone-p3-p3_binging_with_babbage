@@ -20,6 +20,7 @@ A list of research questions you would like to address during the project.
 - What impact do different socie-economic circumstances have on calories, nutrients and nutrient diversity? 
 - Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrion? 
 - How does purchase behavior change over the year, is there a change in consumption behavior observable and linkable to different strata 
+
 ---
 
 ### Proposed dataset
@@ -45,7 +46,7 @@ Interactive Plotly Plot             |  Geopandas Plot
 
 ### Methods
 
-The 
+To start of we will use the explorative **statitical techniques** covered in the beginning of the lecture to explore and describe the acquiered data. We for example would orient ourselfs on **correlation analysis** and **regression** as already used in the original paper, to discover inter-relationship between nutrients and products and socio-economic factors, such as education, household income, ethnicity and religion. To generate a predictive model, we would consider using a model that were introduced in the lecture and that provide robustness and ease-of-use. In this regard we consider one of the ensemble models, either **boosted trees** or **random forests**. As the data and our proposed goal touch on sensitive topics, we want to also address the issue of the black-box model that arises by using complex ensemble models and explore alternatives that present more transparent results with a more direct interpretability, as such we want to explore the results of **decision trees** and **association rule mining** and compare their interpretability and performance against the former ensemble models. 
 
 ---
 
@@ -64,6 +65,12 @@ The
 ### Organization within the team
 
 The amuse-geule was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. 
+
+
+<p align="center">
+<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/On_The_First_Day_Of_Chirstmas.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
+</p>
+
 
 
 The easy GeoPandas Enviroment Setup: 
