@@ -4,9 +4,9 @@
 
 ### Abstract 
 
-The Paper introduces a novel dataset and with it explores the interrelations of nutrion and health. This utilizes the easy association between the Tesco data and aviable census data, which we want to extend on to explore to see if food is a dividing factor or a great unifier in a society.
-We propose to combine the data set with aviable census data to explore relationships between socie-economic factors - such as wealth, education, ethnicity and cultural background -, and nutrion.
-The association to the Greater London area allows us to explore the inter-relation between nutrion and other census data in a socie-economically diverse metropolitian area.  
+The Paper introduces a novel dataset and with it explores the interrelations of nutrition and health. This utilizes the easy association between the Tesco data and aviable census data, which we want to extend on to explore to see if food is a dividing factor or a great unifier in a society.
+We propose to combine the data set with aviable census data to explore relationships between socie-economic factors - such as wealth, education, ethnicity and cultural background -, and nutrition.
+The association to the Greater London area allows us to explore the inter-relation between nutrition and other census data in a socie-economically diverse metropolitian area.  
 This association also allows us to explore geodata based visualization and to make a possibly interactive Map/s of London, that can be explored. 
 
 --- 
@@ -27,7 +27,7 @@ A list of research questions you would like to address during the project.
 - Who is a Tesco customer, can we find difference in areas were Tesco operates dominantly? 
 - Is there a significant difference in nutrients, both individual and in their distribition between different cultural groups? 
 - What impact do different socie-economic circumstances have on calories, nutrients and nutrient diversity? 
-- Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrion? 
+- Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrition? 
 - How does purchase behavior change over the year, is there a change in consumption behavior observable and linkable to different strata 
 
 ---
