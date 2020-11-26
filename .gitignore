@@ -1,6 +1,7 @@
 /.metadata/
 /.ipynp_checkpoints/
 /UK-GeoJSON-master/
+/Geo_Data/UK-GeoJSON-master/
 *.DS_Store
 *.classpath
 *.log

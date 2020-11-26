@@ -4,12 +4,21 @@
 
 ### Abstract 
 
-The Paper introduces a novel dataset and with it explores the interrelations of nutrion and health. This utilizes the easy association between the Tesco data and aviable census data, which we want to extend on to explore to see if food is a dividing factor or a great unifier in a society.
-We propose to combine the data set with aviable census data to explore relationships between socie-economic factors - such as wealth, education, ethnicity and cultural background -, and nutrion.
-The association to the Greater London area allows us to explore the inter-relation between nutrion and other census data in a socie-economically diverse metropolitian area.  
+The Paper introduces a novel dataset and with it explores the interrelations of nutrition and health. This utilizes the easy association between the Tesco data and aviable census data, which we want to extend on to explore to see if food is a dividing factor or a great unifier in a society.
+We propose to combine the data set with aviable census data to explore relationships between socie-economic factors - such as wealth, education, ethnicity and cultural background -, and nutrition.
+The association to the Greater London area allows us to explore the inter-relation between nutrition and other census data in a socie-economically diverse metropolitian area.  
 This association also allows us to explore geodata based visualization and to make a possibly interactive Map/s of London, that can be explored. 
 
 --- 
+### Related Work
+
+A few related studies that have been conducted, althugh these include mainly survey studies, not observational results. 
+
+- [Socioeconomic inequalities in the healthiness of food choices: Exploring the contributions of food expenditures](https://www.sciencedirect.com/science/article/pii/S0091743516300676?via%3Dihub)
+- [Social class differences in food consumption: The explanatory value of permissiveness and health and cost considerations](https://tinyurl.com/yxuof5jr)
+- [Socio-economic dietary inequalities in UK adults: an updated picture of key food groups and nutrients from national surveillance data](https://tinyurl.com/y388nyyc)
+
+---
 
 ### Research Questions
 
@@ -18,7 +27,7 @@ A list of research questions you would like to address during the project.
 - Who is a Tesco customer, can we find difference in areas were Tesco operates dominantly? 
 - Is there a significant difference in nutrients, both individual and in their distribition between different cultural groups? 
 - What impact do different socie-economic circumstances have on calories, nutrients and nutrient diversity? 
-- Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrion? 
+- Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrition? 
 - How does purchase behavior change over the year, is there a change in consumption behavior observable and linkable to different strata 
 
 ---
@@ -27,7 +36,7 @@ A list of research questions you would like to address during the project.
 
 List the dataset(s) you want to use, and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you've read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible given the datasets at hand.
 
-- The [London Data Store](https://data.london.gov.uk/) acts as a Candy Shop, which provides a near infinite supply of possibly interesting data sets, which we could use for our analysis. Some interesting datasets for [LSOA](https://data.london.gov.uk/dataset/lsoa-atlas), [MSOA](https://data.london.gov.uk/dataset/msoa-atlas), [Wards](https://data.london.gov.uk/dataset/ward-profiles-and-atlas), and [Boroughs](https://data.london.gov.uk/dataset/london-borough-profiles) feature many important core socio-economic informations about an area, such as Household income, Income Support and JobSeekers Allowance claimant rates, population density, household composition, religion, ethnicity, employment and economic activity, and median area incomes. The data is cleary annotated and after a first inspection seems to be nearly complete, well organised and accessible, although in some instances rather ingranual (The ethic grouping let us suspect the census planners of having a long family history of being let loose with just a ruler on maps). Some issues such as inflation might need to be addressed and some further background research needs to be done, for example how we could discretize certain data based on area population following UK standards, such as for example <i> lower/middle/upper </i> class or the more refined distingiouns made in the [Great British Class Survey](https://en.wikipedia.org/wiki/Great_British_Class_Survey). The sizes of the dataset don't exceed 6 mb each thus we can easily handle them on our personal ~~lapwarmer~~ laptop. (Bob does not need to fear the bill from the EPFL Computation Cluster). We addionally will crawl further through the aisle of the data store to find additional interesting and even more specific data sets, when we might want to dive deeper into a specific sub-area. 
+- The [London Data Store](https://data.london.gov.uk/) acts as a Candy Shop, which provides a near infinite supply of possibly interesting data sets, which we could use for our analysis. Some interesting datasets for [LSOA](https://data.london.gov.uk/dataset/lsoa-atlas), [MSOA](https://data.london.gov.uk/dataset/msoa-atlas), [Wards](https://data.london.gov.uk/dataset/ward-profiles-and-atlas), and [Boroughs](https://data.london.gov.uk/dataset/london-borough-profiles) feature many important core socio-economic informations about an area, such as Household income, Income Support and JobSeekers Allowance claimant rates, population density, household composition, religion, ethnicity, employment and economic activity, and median area incomes. The data is cleary annotated and after a first inspection seems to be nearly complete, well organised and accessible, although in some instances rather ingranual (The ethic grouping let us suspect the census planners of having a long [family history](https://i.redd.it/otyd2m356wp21.jpg) of being let loose with just a ruler on maps). Some issues such as inflation might need to be addressed and some further background research needs to be done, for example how we could discretize certain data based on area population following UK standards, such as for example <i> lower/middle/upper </i> class or the more refined distingiouns made in the [Great British Class Survey](https://en.wikipedia.org/wiki/Great_British_Class_Survey). The sizes of the dataset don't exceed 6 mb each thus we can easily handle them on our personal ~~lapwarmer~~ laptop and Bob does not need to fear the bill from the EPFL Computation Cluster. We addionally will crawl further through the aisle of the data store to find additional interesting and even more specific data sets, when we might want to dive deeper into a specific sub-area. 
 
 - To acquiere geodata useable for the timeframe of data collection - census boundries in the UK seem to follow new age trends and are in constant flow - we currently use following [repository](https://github.com/martinjc/UK-GeoJSON), however we are also searching alternative, possibly more [offical](https://geoportal.statistics.gov.uk/), sources. The Data set is organised based on the Identifiers for the different Census areas, and after filtering out all unnecessary information we are left with around 50 mb of data, from over a Gigabyte for the full UK data set. To make later processing even easier we aim to package it both as .geojson/.json and .pkl files.
 
@@ -35,7 +44,7 @@ Using the former, we already tested it and indeed were able to recreate a London
 
 Interactive Plotly Plot             |  Geopandas Plot
 :-------------------------:|:-------------------------:
-<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/0dd39927-7cb6-4a22-8530-03d8d00d9d51.png' width = 800 height = 400>  |<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/38576432-655a-4774-88a9-e03c02ff0898.jfif' width = 800 height = 400>
+<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/0dd39927-7cb6-4a22-8530-03d8d00d9d51.png' width = 800 height = 300>  |<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/38576432-655a-4774-88a9-e03c02ff0898.jfif' width = 800 height = 300>
 
 
 <p align="center">
@@ -52,7 +61,7 @@ To start of we will use the explorative **statitical techniques** covered in the
 
 ### Proposed Timeline
 
-- The amuse-bouche: *Setting up the Enviroments and making sure our tools are up-to-date and ready for the tasks*
+- The amuse-geule: *Setting up the Enviroments and making sure our tools are up-to-date and ready for the tasks*
 - The bread and butter: *Data Loading, Cleaning and Pre-Processing*
 - The entrée: *Analysing the Data based on Correlation and Regression*
 - The main dish: *Training a more refined predictive model*
@@ -60,27 +69,20 @@ To start of we will use the explorative **statitical techniques** covered in the
 - The dessert: *Making it a coherent data story*
 - The cherry on top: *Exploring more advanced visualization of the Data, to allow interactive exploration of the results*
 
+<p align="center">
+<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/On_The_First_Day_Of_Chirstmas.png'>
+</p>
+
 ---
 
 ### Organization within the team
+In team organization we follow a *thematically consistent* system derived from the UK parlimanetary system, although an older [iteration](https://en.wikipedia.org/wiki/Personal_Rule). 
 
-The amuse-geule was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. 
+The amuse-geule was pre-prepared by Sous-Chef Luca and Michael. We setup the enviroments we need for processing and later visualization, with an initial struggle. Addionally we acquiered data sets, in this instance GeoJson that we requiere for the later planned visualization. For the final report presentation a [github.io](https://fierceeagle.github.io/) page was also already setup. As a Team we addionally conducted data loading and intially checks and conducted research into futher data sources.
 
-
-<p align="center">
-<img src='https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_binging_with_babbage/blob/master/Pictures/On_The_First_Day_Of_Chirstmas.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
-</p>
-
-
-
-The easy GeoPandas Enviroment Setup: 
-
-<p align="center">
-<img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
-</p>
+For future planning we consider that mainly the model training and initial analysis will be conducted by every individual with a common goal to compare different apporach and double check results. The Side-Projects, i.e GeoViz and Explainable Models, are conducted by Luca and Michael. For the final report we want to hold a session to develop a shared data story joining and concentrating individual results.
 
 ---
-
 
 ### Questions for TAs
 
@@ -89,6 +91,13 @@ The easy GeoPandas Enviroment Setup:
 - We would like to use a little cross-pollination from the Distributed Information Systems Lecture and utilize some of the there introduced methods, nominally Associations Rule Mining, and would ask if this would be okay?  
 
 ---
+
+#### Warnings for weary Travelers : The *easy* GeoPandas Enviroment Setup
+
+<p align="center">
+<img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages. </i>
+</p>
+
 
 #### Rejected Working Titles: 
 
