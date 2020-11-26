@@ -96,7 +96,7 @@ As fo future planning, we expect that the model training and initial analyses wi
 #### Warnings for weary Travelers : The *easy* GeoPandas Enviroment Setup
 
 <p align="center">
-<img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The python environmental protection agency wants to seal it in a concrete chamber, with <a href="https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages/"> pictorial messages to future civilisations </a> warning them about the danger of using sudo to install random Python packages. </i>
+<img src='https://imgs.xkcd.com/comics/python_environment.png'> <br>  <i> The python environmental protection agency wants to seal it in a concrete chamber, with <a href="https://en.wikipedia.org/wiki/Long-time_nuclear_waste_warning_messages"> pictorial messages to future civilisations </a> warning them about the danger of using sudo to install random Python packages. </i>
 </p>
 #### Rejected Working Titles: 
 
