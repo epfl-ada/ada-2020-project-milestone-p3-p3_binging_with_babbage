@@ -78,7 +78,7 @@ To start of we will use the explorative **statistical techniques** covered in th
 ---
 
 ### Organization within the team
-With respect to team organization, we follow a *thematically consistent* system derived from the UK parlimanetary system, although from one of its previous [iterations](https://en.wikipedia.org/wiki/Personal_Rule). 
+With respect to team organization, we follow a *thematically consistent* system derived from the UK parliamentary system, although from one of its previous [iterations](https://en.wikipedia.org/wiki/Personal_Rule). 
 
 The Amuse-Gueule was pre-prepared by Sous-Chefs Luca and Michael. We set up the environments we need for processing and later visualisation, with an initial struggle seen below. Addionally we acquired datasets, in this instance geojsons that we require for the later planned visualisation. For the final report presentation we also already set up a [github.io](https://fierceeagle.github.io/) page. As a Team, we additionally conducted data loading and intial checks and conducted research into futher data sources.
 
