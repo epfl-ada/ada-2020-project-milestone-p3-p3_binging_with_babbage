@@ -62,7 +62,8 @@ To start of we will use the explorative **statistical techniques** covered in th
 
 ### Proposed Timeline
 
-- The Amuse-Gueule: *Setting up the environments and making sure our tools are up-to-date and ready for the tasks.*
+- The Mise en place: *Setting up the environments and making sure our tools are up-to-date and ready for the tasks.*
+- The Amuse-Gueule: *Preparing the Jekyll Github Page and the GeoData*
 - The Bread and Butter: *Data Loading, Cleaning and Pre-Processing.*
 - The Entrée: *Analysing the Data based on Correlation and Regression.*
 - The Main Dish: *Training a more refined predictive model.*
