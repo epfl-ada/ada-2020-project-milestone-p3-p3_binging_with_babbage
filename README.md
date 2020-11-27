@@ -54,6 +54,7 @@ Interactive Plotly Plot             |  Geopandas Plot
 ---
 
 ### Methods
+As the data is in a prestine state, without nearly any missing information, our main issue in regard to introductive wrangling is getting an overview what columns are provided in the dataframe and to make the naming of these more accesible to usage. Pre-processing needs to be handled on a case for case basis depending on the models we want to use. 
 
 To start of we will use the explorative **statistical techniques** covered in the beginning of the lecture to explore and describe the acquired data. We for example would orient ourselfs on **correlation analysis** and **regression** as already used in the original paper, to discover interrelationship between nutrients and products and socio-economic factors, such as education, household income, ethnicity and religion. To generate a predictive model, we would consider using models that were introduced in the lecture and that provide robustness and ease-of-use. In this regard we consider one of the ensemble models, either **boosted trees** or **random forests**. As the data and our proposed goal touch on sensitive topics, we want to also address the issue of the black-box model that arises by using complex ensemble models and explore alternatives that present more transparent results with a more direct interpretability, as such we want to explore the results of **decision trees** and **association rule mining** and compare their interpretability and performance against the former ensemble models. 
 
@@ -76,12 +77,11 @@ To start of we will use the explorative **statistical techniques** covered in th
 ---
 
 ### Organization within the team
+With respect to team organization, we follow a *thematically consistent* system derived from the UK parlimanetary system, although from one of its previous [iterations](https://en.wikipedia.org/wiki/Personal_Rule). 
 
-With respect to team organization, we follow a *thematically consistent* system derived from the UK parlimanetary system, although from one if its previous [iterations](https://en.wikipedia.org/wiki/Personal_Rule). 
+The Amuse-Gueule was pre-prepared by Sous-Chefs Luca and Michael. We set up the environments we need for processing and later visualisation, with an initial struggle seen below. Addionally we acquired datasets, in this instance geojsons that we require for the later planned visualisation. For the final report presentation we also already set up a [github.io](https://fierceeagle.github.io/) page. As a Team, we additionally conducted data loading and intial checks and conducted research into futher data sources.
 
-The Amuse-Gueule was pre-prepared by Sous-Chefs Luca and Michael. We set up the environments we need for processing and later visualisation, with an initial struggle. Addionally we acquired datasets, in this instance geojsons that we require for the later planned visualisation. For the final report presentation we also already set up a [github.io](https://fierceeagle.github.io/) page. As a Team, we additionally conducted data loading and intial checks and conducted research into futher data sources.
-
-As fo future planning, we expect that the model training and initial analyses will be conducted by every team member individually with the common goal to compare different approaches and double check results. The side-projects, i.e GeoViz and explainable models, are conducted by Luca and Michael. For the final report we want to hold a [session](https://xkcd.com/323/) to develop a shared data story joining the individual results and achieving  [peak](https://xkcd.com/1513/) [code](https://xkcd.com/1695/) [quality](https://xkcd.com/1833/).
+As fo future planning, we expect that the model training and initial analyses will be conducted by every team member individually with the common goal to compare different approaches and double check results. The side-projects, i.e GeoViz and explainable models, are conducted by Luca and Michael. For the final report we want to hold a [session](https://xkcd.com/323/) to develop a shared data story joining the individual results and achieving  [peak](https://xkcd.com/1513/) [code](https://xkcd.com/1695/) [quality](https://xkcd.com/1833/). 
 
 ---
 
@@ -89,7 +89,7 @@ As fo future planning, we expect that the model training and initial analyses wi
 
 - Do our semi-serious or humorous texts annoy you or do they lighten up the monotony of looking at 5 times the same project? Should we continue in the more casual style or become more laconic and embrace our inner german-ness? We can stop ... Promise!
 
-- We would like to use a little cross-pollination from the Distributed Information Systems lecture and use some of the methods introduced there, specifically associations rule mining, and would ask if this would be okay?  
+- We would like to use a little cross-pollination from the Distributed Information Systems lecture and use some of the methods introduced there, specifically associations rule mining, and would ask if this would be okay?
 
 ---
 
