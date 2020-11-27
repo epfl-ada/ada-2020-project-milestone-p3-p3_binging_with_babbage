@@ -13,7 +13,7 @@ A few related studies have been conducted. However, these include mainly survey 
 - [Socioeconomic inequalities in the healthiness of food choices: Exploring the contributions of food expenditures](https://www.sciencedirect.com/science/article/pii/S0091743516300676?via%3Dihub)
 - [Social class differences in food consumption: The explanatory value of permissiveness and health and cost considerations](https://tinyurl.com/yxuof5jr)
 - [Socio-economic dietary inequalities in UK adults: an updated picture of key food groups and nutrients from national surveillance data](https://tinyurl.com/y388nyyc)
-
+- [Large-scale and high-resolution analysis of food purchases and health outcomes](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-019-0191-y)
 ---
 
 ### Research Questions
