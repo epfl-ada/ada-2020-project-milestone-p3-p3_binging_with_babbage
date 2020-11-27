@@ -22,7 +22,7 @@ A few related studies have been conducted. However, these include mainly survey 
 
 ### Research Questions
 
-A list of research questions you would like to address during the project:
+A list of research questions we would like to address during the project:
 
 - Who is a Tesco customer? Since Tesco stores are not uniformly scattered across london, can we identify what makes an area an operational target for Tesco? 
 - Is there a significant difference in nutrients, both on an individual level and in their distribution between different cultural groups? 
@@ -81,7 +81,7 @@ With respect to team organization, we follow a *thematically consistent* system 
 
 The Amuse-Gueule was pre-prepared by Sous-Chefs Luca and Michael. We set up the environments we need for processing and later visualisation, with an initial struggle. Addionally we acquired datasets, in this instance geojsons that we require for the later planned visualisation. For the final report presentation we also already set up a [github.io](https://fierceeagle.github.io/) page. As a Team, we additionally conducted data loading and intial checks and conducted research into futher data sources.
 
-As fo future planning, we expect that the model training and initial analyses will be conducted by every team member individually with the common goal to compare different approaches and double check results. The side-projects, i.e GeoViz and explainable models, are conducted by Luca and Michael. For the final report we want to hold a session to develop a shared data story joining and concentrating individual results.
+As fo future planning, we expect that the model training and initial analyses will be conducted by every team member individually with the common goal to compare different approaches and double check results. The side-projects, i.e GeoViz and explainable models, are conducted by Luca and Michael. For the final report we want to hold a [session](https://xkcd.com/323/) to develop a shared data story joining the individual results and achieving  [peak](https://xkcd.com/1513/) [code](https://xkcd.com/1695/) [quality](https://xkcd.com/1833/).
 
 ---
 
