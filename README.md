@@ -3,7 +3,7 @@
 ---
 
 ### Abstract 
-The paper introduces a novel dataset of Tesco grocery stores food purchases in greater London over a whole year and uses it to explore the interrelations of nutrition and health. The dataset connects Tesco data with geographically census data down to Lower Super Output Areas. We propose to use this data together with available census data to explore connections between food habits and socio-economic factors such as wealth, education, ethnicity and cultural background. The association to the greater London area allows us to study these connections in a socio-economically diverse metropolitan area. Ita also offers a great opportunity for us to experiment with geodata based visualizations and to create (an) inderactive map(s) of London that can then be exploored by others. 
+The paper introduces a novel dataset of Tesco grocery stores food purchases in greater London over a whole year and uses it to explore the interrelations of nutrition and health. The dataset connects Tesco data with geographically census data down to Lower Super Output Areas. We propose to use this data together with available census data to explore connections between food habits and socio-economic factors such as wealth, education, ethnicity and cultural background. The association to the greater London area allows us to study these connections in a socio-economically diverse metropolitan area. It also offers a great opportunity for us to experiment with geodata based visualizations and to create (an) interactive map(s) of London that can then be explored by others. 
 
 --- 
 ### Related Work
