@@ -4,11 +4,7 @@
 
 ### Abstract 
 
-The Paper introduces a novel dataset and uses it to explore the interrelations of nutrition and health. This utilises the easy association between the Tesco data and available census data, which we want to extend further to explore to see if food is a dividing factor or a great unifier in a society.
-We propose to combine the data set with available census data to explore relationships between socio-economic factors - such as wealth, education, ethnicity and cultural background -, and nutrition.
-The association to the Greater London area allows us to explore the interrelation between nutrition and other census data in a socio-economically diverse metropolitian area.  
-It also allows us to experiment with geodata based visualisations and to create (an) interactive map(s) of London that can then be explored by others. 
-
+The Paper introduces a novel dataset of Tesco grocery stores food purchases in greater London over a whole year and uses it to explore the interrelations of nutrition and health. The dataset connects Tesco data with geographically census data down to Lower Super Output Areas. We propose to use this data together with available census data to explore connections between food habits and socio-economic factors such as wealth, education, ethnicity and cultural background. The association to the greater London area allows us to study these connections in a socio-economically diverse metropolitan area. It also shows a great opportunity for us to experiment with geodata based visualizations and to create (an) interactive map(s) of London that can then be explored by others.
 --- 
 ### Related Work
 
