@@ -88,7 +88,7 @@ Michael             |  Luca  | Ivo
  Geo Data Processing (40%) | | 
  Outlier Plotting and Removal | |
  Clustering and Labeling | |
- Tesco Location Plot | |
+ Tesco Location Scraping and Plotting | |
  Plot Factories (Bar, Map, Multilayer Map, 3D Plots, Heatmap, Feature Importance, Tree) | |
  Correlation & Regression Analysis | |
  Ensemble Model Pipeline, Training and Analysis | |
