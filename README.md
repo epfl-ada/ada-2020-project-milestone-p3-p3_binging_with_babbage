@@ -89,7 +89,8 @@ Michael             |  Luca  | Ivo
  Outlier Plotting and Removal | |
  Clustering and Labeling | |
  Tesco Location Scraping and Plotting | |
- Plot Factories (Bar, Map, Multilayer Map, 3D Plots, Heatmap, Feature Importance, Tree) | |
+ Plot Factories (Bar, Map (75%), Multilayer Map (75%), 3D Plots (90 %), Heatmap, Feature Importance, Tree) | |
+ Donuts & Sunburst (50%) | | 
  Correlation & Regression Analysis | |
  Ensemble Model Pipeline, Training and Analysis | |
  Decision Tree Pipeline, Training and Analysis | |
