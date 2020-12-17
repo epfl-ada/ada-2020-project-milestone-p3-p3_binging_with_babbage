@@ -80,6 +80,26 @@ As for future planning, we expect that the model training and initial analyses w
 
 ---
 
+### Project Contributions
+
+Michael             |  Luca  | Ivo
+:-------------------------:|:--------------:|:-----------:
+ Data Loading and Cleaning (50%) | |
+ Geo Data Processing (40%) | | 
+ Outlier Plotting and Removal | |
+ Clustering and Labeling | |
+ Tesco Location Plot | |
+ Plot Factories (Bar, Map, Multilayer Map, 3D Plots, Heatmap, Feature Importance, Tree) | |
+ Correlation & Regression Analysis | |
+ Ensemble Model Pipeline, Training and Analysis | |
+ Decision Tree Pipeline, Training and Analysis | |
+ Association Rule Mining Setup | |
+ Website setup (30%) | |
+ Data Story (Except Association Rule Analysis and Water Consumption) | |
+
+
+
+--- 
 ### Questions for TAs
 
 - Do our semi-serious or humorous texts annoy you or do they lighten up the monotony of looking at 5 times the same project? Should we continue in the more casual style or become more laconic and embrace our inner german-ness? We can stop ... Promise!
