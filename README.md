@@ -23,7 +23,7 @@ A list of research questions we would like to address during the project:
 - Who is the targeted Tesco customer? Since Tesco stores are not uniformly scattered across London, can we identify what makes an area an operational target for Tesco? 
 - Is there a significant difference in nutrients composition, both on an individual level and in their distribution between different socio-economic or cultural groups? 
 - Can we train a predictive model that is able to predict socio-economic facts about an area based on nutrition? 
-- How does purchasing behavior change over the year? Is there a change in consumption behavior observable and linkable to different strata? 
+- How does purchasing behavior change over the year? Is there a change in consumption behavior observable and linkable to different strata? (*Note: Cut down due to time constraint and missing group member participitation*)
 
 ---
 
