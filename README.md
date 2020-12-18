@@ -103,7 +103,7 @@ Michael             |  Luca
  Ensemble Model Pipeline, Training and Analysis | 
  Decision Tree Pipeline, Training and Analysis | 
  Association Rule Mining Setup | 
- Data Story (Except Association Rule Analysis and Water Consumption) | 
+ Data Story (Except Association Rule Analysis) | 
 
 
 
