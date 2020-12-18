@@ -89,21 +89,21 @@ As for future planning, we expect that the model training and initial analyses w
 
 ### Project Contributions
 
-Michael             |  Luca  | Ivo
-:-------------------------:|:--------------:|:-----------:
- Data Loading and Cleaning (50%) | |
- Geo Data Processing (40%) | | 
- Outlier Plotting and Removal | |
- Clustering and Labeling | |
- Tesco Location Scraping and Plotting | |
- Plot Factories (Bar, Map (75%), Multilayer Map (90%), 3D Plots (90 %), Heatmap, Feature Importance, Tree) | |
- Donuts & Sunburst (50%) | | 
- Correlation & Regression Analysis | |
- Ensemble Model Pipeline, Training and Analysis | |
- Decision Tree Pipeline, Training and Analysis | |
- Association Rule Mining Setup | |
- Website setup (30%) | |
- Data Story (Except Association Rule Analysis and Water Consumption) | |
+Michael             |  Luca  
+:-------------------------:|:--------------:
+ Data Loading and Cleaning (50%) | Data Cleaning (50%) 
+ Geo Data Processing (40%) | Preparing Geodata (60%)  
+ Outlier Plotting and Removal | Custom Mapstyle using Mapbox
+ Clustering and Labeling | Aesthetic Consistency and Colorcoding
+ Tesco Location Scraping and Plotting | Plot Factory Enhancement and Consistency 
+ Plot Factories (Bar, Map (75%), Multilayer Map (90%), 3D Plots (90 %), Heatmap, Feature Importance, Tree) | Donut and Sunburst (50%) 
+ Donuts & Sunburst (50%) | Association Rule Mining, Filtering, Analysis 
+ Website setup (30%) | Website 
+ Correlation & Regression Analysis | 
+ Ensemble Model Pipeline, Training and Analysis | 
+ Decision Tree Pipeline, Training and Analysis | 
+ Association Rule Mining Setup | 
+ Data Story (Except Association Rule Analysis) | 
 
 
 
