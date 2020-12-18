@@ -90,7 +90,7 @@ As for future planning, we expect that the model training and initial analyses w
 ### Project Contributions
 
 Michael             |  Luca  
-:-------------------------:|:--------------:|:-----------:
+:-------------------------:|:--------------:
  Data Loading and Cleaning (50%) | Data Cleaning (50%) 
  Geo Data Processing (40%) | Preparing Geodata (60%)  
  Outlier Plotting and Removal | Custom Mapstyle using Mapbox
